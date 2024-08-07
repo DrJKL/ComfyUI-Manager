@@ -3098,6 +3098,17 @@
             "description": "Nodes to use [a/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) for image or video segmentation."
         },
         {
+            "author": "kijai",
+            "title": "EasyAnimateWrapper",
+            "id": "easy-animate-wrapper",
+            "reference": "https://github.com/kijai/ComfyUI-EasyAnimateWrapper",
+            "files": [
+                "https://github.com/kijai/ComfyUI-EasyAnimateWrapper"
+            ],
+            "install_type": "git-clone",
+            "description": "Nodes to use [EasyAnimate](https://huggingface.co/spaces/alibaba-pai/EasyAnimate)."
+        },
+        {
             "author": "hhhzzyang",
             "title": "Comfyui-Lama",
             "id": "lama",
